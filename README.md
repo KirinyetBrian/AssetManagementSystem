@@ -3,16 +3,16 @@
 
 - - - -
 
-The application was initially created by **Siamon Hasan**, useing [php](http:php.net), [mysql](https://www.mysql.com) and [bootstrap](http://getbootstrap.com). it was later modified by **Kirinyet Brian**
+The application was  created by **Kirinyet Brian**, useing [php](http:php.net), [mysql](https://www.mysql.com) and [bootstrap](http://getbootstrap.com). 
 
 
-Maranet Asset is a web based Asset Management  System, that will allow you to keep tracking of the assets issued out in the organization 
+ Asset Management System is a web based Asset Management  System, that will allow you to keep tracking of the assets issued out in the organization 
 ****
 
 If you find any bug, and a fix for that bug, please leave a comment on the github page for this project and i will push the change into the master branch.
 
 
-### Installing this application is fairly easy, just follow these steps:
+### Installation
 ****
 
 
@@ -36,7 +36,7 @@ If you find any bug, and a fix for that bug, please leave a comment on the githu
 
 - - - -
 
-## DON'T FORGET TO GIVE US FEEDBACK
+## DON'T FORGET TO GIVE ME FEEDBACK
 
 - - - -
 
